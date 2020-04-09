@@ -6,7 +6,22 @@ A simple script that gives you a list of users who you follow but they don't fol
 
 - clone the repo
 - `bundle`
+- `ruby main.rb username_here`
 
-- ```shell
-  ruby main.rb username_here
-  ```
+### Example
+
+➜ `ruby main.rb Aryaa-Stark`
+
+```sh
+You follow, but they don't follow back: 6
+["amrsalama",
+ "mohamedelraghy",
+ "KerollosNabil",
+ "kerolloz",
+ "ElbannaJr",
+ "Samhhali"]
+--------------------
+Followers: 4
+Following: 9
+
+```
