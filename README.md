@@ -2,7 +2,7 @@
 
 A simple script that gives you a list of users who you follow but they don't follow you back on GitHub. :octocat:
 
-## Installtion & Usage
+## Usage
 
 - clone the repo
 - `bundle`
