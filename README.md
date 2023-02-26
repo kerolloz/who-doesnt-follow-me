@@ -1,27 +1,33 @@
 # Who doesn't follow me back? 👨‍💻
 
-A simple script that gives you a list of users who you follow but they don't follow you back on GitHub. :octocat:
+Who Doesn't Follow Me is a simple Ruby script that helps you identify GitHub users who you follow, but they don't follow you back. This tool uses GitHub's API to retrieve information about your followers and the users you follow, making the process quick and efficient. :octocat:
 
-## Usage
+## How to Use 💡
 
-- clone the repo
-- `bundle`
-- `ruby main.rb username_here`
+To use Who Doesn't Follow Me, you will need to have Ruby installed on your machine. You can install [Ruby](https://www.ruby-lang.org/en/) from their official website or use a ruby version managaer such as [`rbenv`](https://blog.kero.cf/how-to-install-rbenv-on-ubuntu-or-debian-based-system).
 
-### Example
+- Clone this repository to your local machine. 💪
 
-➜ `ruby main.rb Aryaa-Stark`
+  ```bash
+  git clone https://github.com/kerolloz/who-doesnt-follow-me.git
+  ```
 
-```sh
-You follow, but they don't follow back: 6
-["amrsalama",
- "mohamedelraghy",
- "KerollosNabil",
- "kerolloz",
- "ElbannaJr",
- "Samhhali"]
---------------------
-Followers: 4
-Following: 9
+- Install the required Ruby gems. 💎
 
-```
+  ```bash
+  bundle install
+  ```
+
+- Run the script by passing your GitHub username as an argument. 🚀
+
+  ```bash
+  ruby main.rb <username>
+  ```
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/36763164/225039556-e579a62c-83af-4334-8851-2a2a25e27914.png" />
+</p>
+
+
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify it as you see fit.
