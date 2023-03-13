@@ -23,10 +23,10 @@ To use Who Doesn't Follow Me, you will need to have Ruby installed on your machi
   ```bash
   ruby main.rb <username>
   ```
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/36763164/225039556-e579a62c-83af-4334-8851-2a2a25e27914.png" />
-</p>
 
+<p align="center">
+  <img width="650px" src="https://user-images.githubusercontent.com/36763164/225044574-b91a238b-40d1-4d1f-bbf0-1caf5189b15f.png" />
+</p>
 
 ## License
 
