@@ -1,6 +1,9 @@
 # Who doesn't follow me back? 👨‍💻
 
-Who Doesn't Follow Me is a simple Ruby script that helps you identify GitHub users who you follow, but they don't follow you back. This tool uses GitHub's API to retrieve information about your followers and the users you follow, making the process quick and efficient. :octocat:
+Who Doesn't Follow Me is a simple Ruby script that helps you identify GitHub users who you follow, but they don't follow you back. This command line tool uses GitHub's API to retrieve information about your followers and the users you follow, making the process quick and efficient. :octocat:
+
+> **Note**  
+> There's a web version at [kerolloz/github-non-followers](https://github.com/kerolloz/github-non-followers)
 
 ## How to Use 💡
 
